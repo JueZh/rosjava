@@ -2,6 +2,10 @@
 Changelog for package rosjava
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.4.0 (2019-04-12)
+------------------
+* Updates for melodic release.
+
 0.3.0 (2016-12-17)
 ------------------
 * Updates for kinetic release.
